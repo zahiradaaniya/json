@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "Zahira Daaniya",
+      "age": 19,
+      "email": "zahira@gmail.com",
+      "isEnrolled": false
+    },
+     {
+      "name": "Ananda Cindy",
+      "age": 19,
+      "email": "cindy@gmail.com",
+      "isEnrolled": true
+    },
+     {
+      "name": "Ridho Restu",
+      "age": 20,
+      "email": "Ridho@gmail.com",
+      "isEnrolled": false
+    }
+  ]
+}
